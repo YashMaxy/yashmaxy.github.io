@@ -2,52 +2,52 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>localhost/fr/categories/</loc>
+    <loc>https://yashmaxy.github.io/fr/categories/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="localhost/categories/"
+                href="https://yashmaxy.github.io/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="localhost/fr/categories/"
+                href="https://yashmaxy.github.io/fr/categories/"
                 />
   </url><url>
-    <loc>localhost/fr/series/</loc>
+    <loc>https://yashmaxy.github.io/fr/series/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="localhost/series/"
+                href="https://yashmaxy.github.io/series/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="localhost/fr/series/"
+                href="https://yashmaxy.github.io/fr/series/"
                 />
   </url><url>
-    <loc>localhost/fr/tags/</loc>
+    <loc>https://yashmaxy.github.io/fr/tags/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="localhost/tags/"
+                href="https://yashmaxy.github.io/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="localhost/fr/tags/"
+                href="https://yashmaxy.github.io/fr/tags/"
                 />
   </url><url>
-    <loc>localhost/fr/</loc>
+    <loc>https://yashmaxy.github.io/fr/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="localhost/"
+                href="https://yashmaxy.github.io/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="localhost/fr/"
+                href="https://yashmaxy.github.io/fr/"
                 />
   </url>
 </urlset>
