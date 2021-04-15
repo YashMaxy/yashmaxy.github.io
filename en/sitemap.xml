@@ -2,102 +2,102 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://yashmaxy.github.io/posts/2014/09/creating-a-new-theme/</loc>
+    <loc>localhost/posts/2014/09/creating-a-new-theme/</loc>
     <lastmod>2014-09-28T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://yashmaxy.github.io/posts/2014/03/migrate-to-hugo-from-jekyll/</loc>
+    <loc>localhost/posts/2014/03/migrate-to-hugo-from-jekyll/</loc>
     <lastmod>2014-03-10T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://yashmaxy.github.io/series/hugo-101/</loc>
+    <loc>localhost/series/hugo-101/</loc>
     <lastmod>2014-09-28T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://yashmaxy.github.io/posts/</loc>
+    <loc>localhost/posts/</loc>
     <lastmod>2014-09-28T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://yashmaxy.github.io/series/</loc>
-    <lastmod>2014-09-28T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="https://yashmaxy.github.io/fr/series/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://yashmaxy.github.io/series/"
-                />
-  </url><url>
-    <loc>https://yashmaxy.github.io/</loc>
+    <loc>localhost/series/</loc>
     <lastmod>2014-09-28T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://yashmaxy.github.io/fr/"
+                href="localhost/fr/series/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://yashmaxy.github.io/"
+                href="localhost/series/"
                 />
   </url><url>
-    <loc>https://yashmaxy.github.io/posts/2014/04/hugo-template-primer/</loc>
+    <loc>localhost/</loc>
+    <lastmod>2014-09-28T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="localhost/fr/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="localhost/"
+                />
+  </url><url>
+    <loc>localhost/posts/2014/04/hugo-template-primer/</loc>
     <lastmod>2014-04-02T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://yashmaxy.github.io/categories/</loc>
+    <loc>localhost/categories/</loc>
     <lastmod>2014-04-02T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://yashmaxy.github.io/fr/categories/"
+                href="localhost/fr/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://yashmaxy.github.io/categories/"
+                href="localhost/categories/"
                 />
   </url><url>
-    <loc>https://yashmaxy.github.io/categories/development/</loc>
+    <loc>localhost/categories/development/</loc>
     <lastmod>2014-04-02T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://yashmaxy.github.io/tags/development/</loc>
+    <loc>localhost/tags/development/</loc>
     <lastmod>2014-04-02T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://yashmaxy.github.io/posts/2014/04/getting-started-with-hugo/</loc>
+    <loc>localhost/posts/2014/04/getting-started-with-hugo/</loc>
     <lastmod>2014-04-02T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://yashmaxy.github.io/tags/go/</loc>
+    <loc>localhost/tags/go/</loc>
     <lastmod>2014-04-02T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://yashmaxy.github.io/tags/golang/</loc>
+    <loc>localhost/tags/golang/</loc>
     <lastmod>2014-04-02T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://yashmaxy.github.io/categories/golang/</loc>
+    <loc>localhost/categories/golang/</loc>
     <lastmod>2014-04-02T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://yashmaxy.github.io/tags/hugo/</loc>
+    <loc>localhost/tags/hugo/</loc>
     <lastmod>2014-04-02T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://yashmaxy.github.io/tags/</loc>
+    <loc>localhost/tags/</loc>
     <lastmod>2014-04-02T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://yashmaxy.github.io/fr/tags/"
+                href="localhost/fr/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://yashmaxy.github.io/tags/"
+                href="localhost/tags/"
                 />
   </url><url>
-    <loc>https://yashmaxy.github.io/tags/templates/</loc>
+    <loc>localhost/tags/templates/</loc>
     <lastmod>2014-04-02T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://yashmaxy.github.io/tags/themes/</loc>
+    <loc>localhost/tags/themes/</loc>
     <lastmod>2014-04-02T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://yashmaxy.github.io/about/</loc>
+    <loc>localhost/about/</loc>
   </url><url>
-    <loc>https://yashmaxy.github.io/projects/</loc>
+    <loc>localhost/projects/</loc>
   </url>
 </urlset>
